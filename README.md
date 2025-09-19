@@ -1,6 +1,4 @@
-# Project Documentation
 
-This repository contains the files and scripts for a data-processing and reporting project. The following is a breakdown of the file structure.
 
 ## File Structure
 

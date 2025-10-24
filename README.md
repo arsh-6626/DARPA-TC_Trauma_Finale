@@ -9,6 +9,11 @@
 * `the_final_act.py`: Final Script (Untested yet)
 * `utils.py`: all helper functions
 
+
+## Process Flow
+<p align="center">
+<img height="1044" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/9779a80e-5d03-4521-b1b0-802f3c5de939" />
+</p>
 ## Results and Evaluation
 
 ### Results accros all of the DARPA Provided Dataset

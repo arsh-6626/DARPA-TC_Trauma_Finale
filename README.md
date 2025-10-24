@@ -1,5 +1,7 @@
 # UAS DTU - DARPA Triage Challenge - Trauma Pipeline.
 
+The given repository was used in DARPA Triage Challenge - Phase 2, in October 2025 by team UAS-DTU, where we won 150k USD as runner's up in self funded category(Systems). The repository was evaluating `Trauma` and `Severe Hemmorhage` categories
+
 ## File Structure
 
 * `/backups/final_act_v2/`: scripts used during final ablations
@@ -14,10 +16,10 @@
 <p align="center">
 <img height="1044" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/9779a80e-5d03-4521-b1b0-802f3c5de939" />
 </p>
+
 ## Results and Evaluation
 
 ### Results accros all of the DARPA Provided Dataset
-
 ```
 ======================================
       Category-wise Accuracy          
